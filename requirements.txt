@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+joblib
+scikit-learn
+tensorflow
+mtranslate
+keras
+
+
+
+
